@@ -17,7 +17,7 @@ Having said that, I love teaching and my future plans are to be able to work ful
 > Sponsor the efforts by [paying as little as 3$ per month](http://gum.co/roadmap-sh) or with [one time payment via paypal](https://paypal.me/kamranahmedse). Alternatively, reach out to me at [kamran@roadmap.sh](mailto:kamran@roadmap.sh).
 
 ## Can I contribute?
-You definitely can, infact you are encouraged to do that. Even your minor contributions such as typo fixes count. The source code of the website can be [found on Github](https://github.com/kamranahmedse/roadmap.sh). Your contributions can be: 
+You definitely can! In fact, you are encouraged to do that. Even your minor contributions such as typo fixes count. The source code of the website can be [found on Github](https://github.com/kamranahmedse/roadmap.sh). Your contributions can be: 
 
 * Adding a new roadmap
 * Updating existing roadmap
